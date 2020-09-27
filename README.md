@@ -4,4 +4,6 @@
 
 2.componentWillRecieveProps 在新版react中不在使用.改为 getDrivedStateFromProps.
 
+3.跨页面通信解决方案：
+
 
